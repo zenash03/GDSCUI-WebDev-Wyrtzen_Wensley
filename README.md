@@ -1,13 +1,13 @@
 # Mini Competition GDSC UI
 
-** GDSCUI-WebDev-Wyrtzen_Wensley **
-** Name: Wyrtzen Wensley ** 
+**GDSCUI-WebDev-Wyrtzen_Wensley**
+**Name: Wyrtzen Wensley** 
 
 ## Todo List App
 
 A feature-rich Todo List application to help you stay organized.
 
-##✨ Features
+## ✨ Features
 
 - **Add New Todo:** Easily add new todos. We create new todo. 
   - How to use ? When we want to add new todo into the todolist, we fill the input todo name, and choose category we want. It also had input validation ensures the form not empty.   
@@ -24,7 +24,7 @@ A feature-rich Todo List application to help you stay organized.
 - **Delete Todo:** Remove unwanted todos from your list.
   - How to use ? on each todo had delete button that we can delete todo. It also had confirm before delete todo.
 
-##👨🏻‍💻 Development
+## 👨🏻‍💻 Development
 Using Html, Css, Javascript as a main components.
 
 Libraries
@@ -34,5 +34,5 @@ Libraries
 - JQuery
 
 ###
-##📄 License
+## 📄 License
 Copyright © 2024 - Present Zenash03.
