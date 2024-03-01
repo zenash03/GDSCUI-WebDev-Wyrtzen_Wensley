@@ -10,7 +10,9 @@ A feature-rich Todo List application to help you stay organized.
 
 ## Features
 
-- **Add Todo with Category:** Easily add new todos with categories. We can also create new categories. Input validation ensures accurate data.
+- **Add New Todo:** Easily add new todos. We create new todo. 
+  - How to use ? When we want to add new todo into the todolist, we fill the input todo name, and choose category we want. It also had input validation ensures the form not empty.   
+- **Add New Category:** Easily add new  categories. We can also create new categories.
   - How to use ? When we want to add some new category we can create category by pressing on add new category.   
 - **Filter by Category:** Quickly find and view todos based on their categories.
   - How to use ? we can press the dropdown button above the todo and choose categories we want to show.
