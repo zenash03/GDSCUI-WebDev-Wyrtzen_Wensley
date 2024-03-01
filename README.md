@@ -1,7 +1,7 @@
 # Mini Competition GDSC UI
 
-**GDSCUI-WebDev-Wyrtzen_Wensley**
-**Name: Wyrtzen Wensley** 
+- **GDSCUI-WebDev-Wyrtzen_Wensley**
+- **Name: Wyrtzen Wensley** 
 
 ## Todo List App
 
@@ -35,4 +35,4 @@ Libraries
 
 ###
 ## 📄 License
-Copyright © 2024 - Present Zenash03.
+Copyright © 2024 - Present By Zenash03.
