@@ -5,8 +5,8 @@
 
 ## Todo List App
 
-A feature-rich Todo List application to help you stay organized.
-Check this out: [website][https://zenash03.github.io/GDSCUI-WebDev-Wyrtzen_Wensley/].
+- A feature-rich Todo List application to help you stay organized.
+- Check out [Todo List App](https://zenash03.github.io/GDSCUI-WebDev-Wyrtzen_Wensley) for more fun.
 
 ## ✨ Features
 
